@@ -31,7 +31,7 @@ venv/
 
 ## Installation Instructions
 ### 1. Clone the repository
-git clone <https://github.com/ANGELA-NYUTU/Inventory_management_system.git>
+git clone <https://github.com/ANGELA-NYUTU/Inventory-management-system.git>
 cd inventory-management-system
 ### 2. Create a virtual environment
 python -m venv venv
